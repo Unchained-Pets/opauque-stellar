@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/scan-iterator-guides",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/scan-iterator-guides": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/scan-iterator-guides",
+    "origin"
+  ]
+}
